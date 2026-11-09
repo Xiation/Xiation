@@ -41,6 +41,11 @@ RESTful APIs, Relational Data Modeling
 ![Tools](https://skillicons.dev/icons?i=git,gitlab,docker,nginx,aws,cloudflare,postman,linux&perline=9)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest&logoColor=white)
 
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiation&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiation&layout=compact&hide_border=true)
+
 ## Learning now
 
 Backend system design, PostgreSQL, and AWS.
