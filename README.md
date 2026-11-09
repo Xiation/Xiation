@@ -26,11 +26,20 @@ Colorimetry hardware built to analyze the color of a solution, with an integrate
 
 ## Tech Stack
 
-**Languages and frameworks:** Python, JavaScript, C++, Node.js, Express.js, Vue.js, React.js, Next.js, FastAPI
+**Languages and frameworks**
 
-**Database and architecture:** PostgreSQL, SQLite, Sequelize, Prisma, RESTful APIs, Relational Data Modeling
+![Languages and frameworks](https://skillicons.dev/icons?i=py,js,cpp,nodejs,express,vue,react,nextjs,fastapi&perline=9)
 
-**Development tools:** Git, GitLab CI/CD, Docker, Nginx, AWS, Cloudflare, Postman, Linux, PyTest
+**Database and architecture**
+
+![Database](https://skillicons.dev/icons?i=postgres,sqlite,prisma,sequelize&perline=9)
+
+RESTful APIs, Relational Data Modeling
+
+**Development tools**
+
+![Tools](https://skillicons.dev/icons?i=git,gitlab,docker,nginx,aws,cloudflare,postman,linux&perline=9)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest&logoColor=white)
 
 ## Learning now
 
