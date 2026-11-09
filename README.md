@@ -9,7 +9,7 @@ I build systems that connect hardware to software, and I am moving toward backen
 - Concurrent processing for real-time data, such as live aerial image stitching
 - Warehouse and logistics systems
 - Computer vision for robotics perception: vision systems for a humanoid robot and an underwater vehicle, and my thesis (in progress)
-- 
+
 ## Selected work
 
 **[BIMA Base Station](https://github.com/Xiation/BIMA-BASE-STATION)**
